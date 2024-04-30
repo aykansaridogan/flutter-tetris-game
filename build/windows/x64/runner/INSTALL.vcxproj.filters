@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Magicline\Desktop\özel proje\mobiluygulama1\mobiluygulama_1\build\windows\x64\CMakeFiles\06215c1d4222df5078c277c3384356cd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1B5C17B8-A73C-352B-BEE4-4843ABD8A21E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

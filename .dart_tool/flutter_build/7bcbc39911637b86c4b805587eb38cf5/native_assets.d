@@ -1,0 +1,1 @@
+ C:\\Users\\Magicline\\Desktop\\özel\ proje\\mobiluygulama1\\mobiluygulama_1\\.dart_tool\\flutter_build\\7bcbc39911637b86c4b805587eb38cf5\\native_assets.yaml: 

@@ -1,0 +1,10 @@
+^C:\USERS\MAGICLINE\DESKTOP\ÖZEL PROJE\MOBILUYGULAMA1\MOBILUYGULAMA_1\BUILD\WINDOWS\X64\CMAKEFILES\B52F246C50B03C3DDF591B2857911E7E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/windows" "-BC:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/mobiluygulama_1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/runner/CMakeFiles/mobiluygulama_1.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/Magicline/Desktop/özel proje/mobiluygulama1/mobiluygulama_1/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
